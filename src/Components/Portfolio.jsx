@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/topview.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Lovely simple background.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Daily Programming Section",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Welcome to our Programming Problem Solving Repository, your go-to destination for honing your coding and algorithmic problem-solving skills.",
+    url: "https://github.com/mr-prasant/Problem-Solving.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Practice Problem Set for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Welcome to the Practice Set of Programming repository. This collection offers a diverse range of problems covering various programming paradigms and domains.",
+    url: "https://github.com/mr-prasant/Practice-Set-of-Programming.git",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Includes my experience and design abilities.",
+    url: "https://drive.google.com/file/d/1UQIML11kG-uOTp1R2h8f1wVqZz6VlXuZ/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Racing Moto Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is a 2D-racing web-game for pc.",
+    url: "https://mr-prasant.github.io/RacingMoto/index.html",
   },
 ];
 
